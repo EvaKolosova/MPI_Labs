@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  mpi2.cpp
+d:\мое\проекты it\парал прог\task3\mpi3\mpi2\mpi2.cpp(7): fatal error C1083: Cannot open include file: 'mpi.h': No such file or directory
